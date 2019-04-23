@@ -5,8 +5,8 @@ SET time_zone = '+00:00';
 SET foreign_key_checks = 0;
 SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
 
-CREATE DATABASE `mydb` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `mydb`;
+CREATE DATABASE `f1db` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `f1db`;
 
 DROP TABLE IF EXISTS `fcast_result`;
 CREATE TABLE `fcast_result` (
